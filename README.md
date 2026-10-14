@@ -2,7 +2,7 @@
 
 A clean, minimal personal dashboard to help you organize your day. Built with pure HTML, CSS, and Vanilla JavaScript — no frameworks, no backend.
 
-🌐 **Live Demo:** [View on GitHub Pages](https://hary300.github.io/CodingCamp-12September26-HaryadiNugrahaPutra/)
+🌐 **Live Demo:** [View on GitHub Pages](https://hary300.github.io/CodingCamp-12October26-HaryadiNugrahaPutra/)
 
 ---
 
@@ -57,8 +57,8 @@ No installation or build step required.
 3. That's it!
 
 ```bash
-git clone https://github.com/Hary300/CodingCamp-12September26-HaryadiNugrahaPutra.git
-cd CodingCamp-12September26-HaryadiNugrahaPutra
+git clone https://github.com/Hary300/CodingCamp-12October26-HaryadiNugrahaPutra.git
+cd CodingCamp-12October26-HaryadiNugrahaPutra
 # Open index.html in your browser
 ```
 
@@ -106,4 +106,4 @@ cd CodingCamp-12September26-HaryadiNugrahaPutra
 ## 👨‍💻 Author
 
 **Haryadi Nugraha Putra**
-RevoU CodingCamp — Batch 12, September 26
+RevoU CodingCamp — Batch 12, October 26

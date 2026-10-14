@@ -150,10 +150,10 @@ works). The GitHub deployment task is required and produces a tangible deliverab
 
 - [x] 8. Complete GitHub deployment
   - [x] 8.1 Push the repository to GitHub
-    - Repository: https://github.com/Hary300/CodingCamp-12September26-HaryadiNugrahaPutra
+    - Repository: https://github.com/Hary300/CodingCamp-12October26-HaryadiNugrahaPutra
     - _Requirements: 8.1_
   - [x] 8.2 Enable GitHub Pages
-    - Live demo: https://hary300.github.io/CodingCamp-12September26-HaryadiNugrahaPutra/
+    - Live demo: https://hary300.github.io/CodingCamp-12October26-HaryadiNugrahaPutra/
     - _Requirements: 8.2_
 
 ---
