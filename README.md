@@ -57,7 +57,7 @@ No installation or build step required.
 3. That's it!
 
 ```bash
-git clone https://github.com/haryadinp/CodingCamp-12September26-HaryadiNugrahaPutra.git
+git clone https://github.com/Hary300/CodingCamp-12September26-HaryadiNugrahaPutra.git
 cd CodingCamp-12September26-HaryadiNugrahaPutra
 # Open index.html in your browser
 ```

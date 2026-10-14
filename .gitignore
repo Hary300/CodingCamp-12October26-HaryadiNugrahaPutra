@@ -1,0 +1,33 @@
+# ── Dependencies ──────────────────────────────────────────────
+node_modules/
+
+# ── Test coverage & reports ───────────────────────────────────
+coverage/
+.nyc_output/
+
+# ── Vitest / Jest cache ───────────────────────────────────────
+.vitest-cache/
+
+# ── Build output (if ever added) ──────────────────────────────
+dist/
+build/
+
+# ── Environment & secrets ─────────────────────────────────────
+.env
+.env.local
+.env.*.local
+
+# ── OS files ──────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ── Editor / IDE ──────────────────────────────────────────────
+.vscode/
+.idea/
+*.suo
+*.user
+
+# ── Logs ──────────────────────────────────────────────────────
+*.log
+npm-debug.log*
